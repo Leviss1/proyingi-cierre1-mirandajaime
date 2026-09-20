@@ -21,12 +21,12 @@ Soy de oaxaca específicamente de la sierra norte en donde nació nuestro presid
 
 ## Herramientas que estoy usando
 
-| Herramienta | ¿Para qué la uso?                     | ¿Ya la tengo funcionando? |
-| ----------- | ------------------------------------- | ------------------------- |
-| Markdown    | [para escribir los archivos ]         | [A medias]                |
-| Obsidian    | [para  tomar nota de forma ordenada ] | [Sí ]                     |
-| Git         | []                                    | [ No ]                    |
-| GitHub      | [para crear mi repositorio ]          | [SÍ]                      |
+| Herramienta | ¿Para qué la uso?                  | ¿Ya la tengo funcionando? |
+| ----------- | ---------------------------------- | ------------------------- |
+| Markdown    | para escribir los archivos         | A medias                  |
+| Obsidian    | para  tomar nota de forma ordenada | Sí                        |
+| Git         | para guardar los cambios hechos    | SÍ                        |
+| GitHub      | para crear mi repositorio          | SÍ                        |
 
 ## Cómo voy en el curso
 
