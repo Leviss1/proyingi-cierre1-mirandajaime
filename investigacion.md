@@ -61,15 +61,15 @@
 
 ### Fuente 3 (opcional)
 
-| Campo                | Contenido |
-| -------------------- | --------- |
-| Autor u organización | [ ]       |
-| Título               | [ ]       |
-| Año                  | [ ]       |
-| Enlace               | [ ]       |
-| Tipo                 | [ ]       |
-| Por qué le creo      | [ ]       |
-| Qué dato me dio      | [ ]       |
+| Campo                | Contenido                                                                                             |
+| -------------------- | ----------------------------------------------------------------------------------------------------- |
+| Autor u organización | Arizona central                                                                                       |
+| Título               | Administración del dinero para estudiantes universitarios:errores financieros comunes                 |
+| Año                  | 2024                                                                                                  |
+| Enlace               | https://www.azcentralcu.org/es/blog/administracion-del-dinero-para-estudiantes-universitarios/        |
+| Tipo                 | blog                                                                                                  |
+| Por qué le creo      | porque la información es precisa y te da una muy buena alimentación sobre la administración de gastos |
+| Qué dato me dio      | aprender y planificar una forma sencilla de ahorro                                                    |
 
 ---
 
