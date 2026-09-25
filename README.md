@@ -18,6 +18,8 @@ Soy de oaxaca específicamente de la sierra norte en donde nació nuestro presid
 
 - [Ideas de proyecto](ideas-proyecto.md) — tres ideas de proyecto para la materia, con su análisis de viabilidad.
 - [Investigación](investigacion.md) — ejemplos que ya existen y fuentes consultadas.
+- [Idea elegida](idea-elegida.md).
+
 
 ## Herramientas que estoy usando
 
@@ -40,5 +42,5 @@ Soy de oaxaca específicamente de la sierra norte en donde nació nuestro presid
 
 
 - **Herramienta utilizada:** No se utilizó IA generativa en esta entrega
-- **Qué le pedí:** [ ]
-- **Qué modifiqué o rechacé de su respuesta, y por qué:** [ ]
+- **Qué le pedí:** 
+- **Qué modifiqué o rechacé de su respuesta, y por qué:** 

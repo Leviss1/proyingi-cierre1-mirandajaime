@@ -37,15 +37,15 @@
 
 ### Fuente 1
 
-| Campo                | Contenido                                                                                   |
-| -------------------- | ------------------------------------------------------------------------------------------- |
-| Autor u organización | [Monefy - aplicación  ]                                                                     |
-| Título               | [Toma el control de tus finanzas ]                                                          |
-| Año                  | [2026]                                                                                      |
-| Enlace               | [https://www.monefy.com ]                                                                   |
-| Tipo                 | [Página web de la aplicación]                                                               |
-| Por qué le creo      | [Por las reseñas que muestra como evidencia]                                                |
-| Qué dato me dio      | [permite registrar cualquier compra con dos toques y ver a dónde va su dinero al instante.] |
+| Campo                | Contenido                                                                                 |
+| -------------------- | ----------------------------------------------------------------------------------------- |
+| Autor u organización | Monefy - aplicación                                                                       |
+| Título               | Toma el control de tus finanzas                                                           |
+| Año                  | 2026                                                                                      |
+| Enlace               | https://www.monefy.com                                                                    |
+| Tipo                 | Página web de la aplicación                                                               |
+| Por qué le creo      | Por las reseñas que muestra como evidencia                                                |
+| Qué dato me dio      | permite registrar cualquier compra con dos toques y ver a dónde va su dinero al instante. |
 
 ### Fuente 2
 
@@ -53,7 +53,7 @@
 | -------------------- | ------------------------------------------------------------------------------------------- |
 | Autor u organización | Banco BBVA                                                                                  |
 | Título               | Apps para controlar gastos,ahorrar y compartir cuentas desde el móvil                       |
-| Año                  | [2026 ]                                                                                     |
+| Año                  | 2026                                                                                        |
 | Enlace               | https://www.bbva.com/es/salud-financiera/las-10-apps-para-gestionar-y-compartir-tus-gastos/ |
 | Tipo                 | artículo informativo                                                                        |
 | Por qué le creo      | Le creo porque es un banco reconocido y habla cosas sobre la gestión de gastos              |
