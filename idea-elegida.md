@@ -2,7 +2,7 @@
 
 **Por qué la elijo:** siento que es una idea buena para personas que no están en casa o personas mayores que por alguna razón se les olvida las cosas y es una buena opción para mantener a las plantitas vivas y que no mueran por falta de agua.
 
-**Pieza física del prototipo:** Tapa para el depósito que cubre el recipiente donde se almacena el agua del aspersor inteligente. Para un proyecto escolar, puedes diseñ de agua
+**Pieza física del prototipo:** Tapa para el depósito que cubre el recipiente donde se almacena el agua del aspersor inteligente. 
 
 La **tapa para el depósito de agua** es una pieza que cubre el recipiente donde se almacena el agua del aspersor inteligente. Para un proyecto escolar, puedes diseñarla e imprimirla en 3D de forma sencilla.
 
