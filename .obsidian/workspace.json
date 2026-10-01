@@ -11,14 +11,12 @@
             "id": "cd0583d9f66c4630",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "idea-elegida.md",
-                "mode": "source",
-                "source": false
+                "file": "cad/captura.jpeg"
               },
-              "icon": "lucide-file",
-              "title": "idea-elegida"
+              "icon": "lucide-image",
+              "title": "captura"
             }
           }
         ]
@@ -190,9 +188,20 @@
   },
   "active": "cd0583d9f66c4630",
   "lastOpenFiles": [
+    "cad/pieza-s6..md",
+    "cad/captura.jpeg",
+    "README.md",
+    "investigacion.md",
     "ideas-proyecto.md",
     "idea-elegida.md",
-    "investigacion.md",
-    "README.md"
+    "cad/parte fisica idea 5.catpart",
+    "parte fisica idea 1.catpart",
+    "parte fisica idea.catpart",
+    "cad/parte fisica idea 4.catpart",
+    "cad/parte fisica idea 3.catpart",
+    "cad/parte fisica idea 2.catpart",
+    "cad/parte fisica idea 1.catpart",
+    "cad/parte fisica idea.catpart",
+    "cad"
   ]
 }
